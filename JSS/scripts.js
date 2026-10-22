@@ -1,3 +1,3 @@
-alert("Que Pedo")
-console.log("Hey sale un Robloxito de Chill")
+alert("Hola")
+console.log("Todo funciona bien")
 // Fin de los scripts
