@@ -1,3 +1,3 @@
 alert("Hola")
 console.log("Todo funciona bien")
-// Fin de los scripts
+// Fin de la parte de scripts
